@@ -17,5 +17,14 @@ body {
 
 #comment {
 	font-style: italic;
+	font-size: 40px;
 	color: #75715d;
+}
+
+@media screen and (max-width: 480px) {
+	#comment {
+		font-style: italic;
+		font-size: 20px;
+		color: #75715d;
+	}
 }
