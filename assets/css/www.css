@@ -1,0 +1,21 @@
+body {
+	padding: 20px;
+}
+.container {
+	max-width: 960px;
+	width: auto;
+	height: auto;
+}
+
+#q {
+	color: #60d6f1;
+}
+
+#dev {
+	color: #ff9800;
+}
+
+#comment {
+	font-style: italic;
+	color: #75715d;
+}
