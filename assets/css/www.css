@@ -21,6 +21,10 @@ body {
 	color: #75715d;
 }
 
+.btn {
+	color: #ff9800;
+	background-color: #60d6f1;
+}
 @media screen and (max-width: 480px) {
 	#comment {
 		font-style: italic;
