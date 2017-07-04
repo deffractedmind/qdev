@@ -31,4 +31,8 @@ body {
 		font-size: 20px;
 		color: #75715d;
 	}
+
+	.mainContent {
+		font-size: 15px;
+	}
 }
