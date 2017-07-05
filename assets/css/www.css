@@ -25,6 +25,11 @@ body {
 	color: #ff9800;
 	background-color: #60d6f1;
 }
+
+#foot {
+	text-align: center;
+	vertical-align: middle;
+}
 @media screen and (max-width: 480px) {
 	#comment {
 		font-style: italic;
